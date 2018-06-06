@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Dijkstra.Classes;
+using System.Drawing;
 
 namespace Dijsktra
 {
